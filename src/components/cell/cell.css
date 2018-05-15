@@ -1,0 +1,18 @@
+.cell {
+    display: inline-block;       
+    border: 0.1px solid #98FB98;
+    width: 15px;
+    height: 15px;
+    }
+  
+  .dead {
+    background-color:#F0FFF0;
+  }
+  
+  .alive {
+    background-color: #228B22;
+  }
+    
+  .cell:hover { 
+    background: #00CCFF;
+  }
